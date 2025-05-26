@@ -6,7 +6,17 @@ Send audio messages via WhatsApp using Maytapi's powerful API.
 - Support for both URL-based and Base64 encoded audio  
 - Optional captions for audio messages  
 - Lightweight Axios implementation  
-- Robust error handling  
+- Robust error handling
+
+## 🔗 Navigation Links
+
+Based on stakeholder feedback, the following key navigation links have been added:
+
+- 🌐 [Home Page](https://maytapi.com/)  
+- 🔐 [Login Page](https://console.maytapi.com/login)  
+- 💰 [Pricing](https://maytapi.com/whatsapp-api-pricing)  
+- 📄 [Documentation](https://maytapi.com/whatsapp-api-documentation#)
+  
 
 ## 📦 Installation  
 Install Axios to enable HTTP requests:
